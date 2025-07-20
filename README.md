@@ -46,4 +46,4 @@ No user tracking or data stored
 # 100% free for everyone
 
 # Live Demo:
-https://PoriFyx.github.io/on-page-seo-audit-report-using-ai/
+[Automated On-Page SEO Audit Report](https://porifyx.github.io/automated-on-page-seo-audit-report/)
